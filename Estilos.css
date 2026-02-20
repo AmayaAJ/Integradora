@@ -43,8 +43,8 @@ nav a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 80px;
-    padding: 40px;
+    gap: 100px;
+    padding: 60px;
     flex-wrap: wrap;
 }
 
@@ -474,6 +474,7 @@ body {
         transform: scale(1.1);
     }
 }
+
 
 
 
