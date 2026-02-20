@@ -50,15 +50,15 @@ nav a {
 
 /* PERFIL */
 .profile-card {
-    width: 150px;
+    width: 350px;
     text-align: center;
     position: relative;
 }
 
 /* CÍRCULO */
 .profile-image {
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     margin: auto;
     border-radius: 50%;
     overflow: hidden;
@@ -474,6 +474,7 @@ body {
         transform: scale(1.1);
     }
 }
+
 
 
 
