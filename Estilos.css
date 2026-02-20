@@ -43,21 +43,22 @@ nav a {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 120px;
-    min-height: calc(100vh - 160px);
+    gap: 80px;
+    padding: 40px;
+    flex-wrap: wrap;
 }
 
 /* PERFIL */
 .profile-card {
-    width: 450px;
+    width: 350px;
     text-align: center;
     position: relative;
 }
 
 /* CÍRCULO */
 .profile-image {
-    width: 450px;
-    height: 450px;
+    width: 350px;
+    height: 350px;
     margin: auto;
     border-radius: 50%;
     overflow: hidden;
@@ -473,4 +474,5 @@ body {
         transform: scale(1.1);
     }
 }
+
 
